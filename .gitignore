@@ -1,0 +1,6 @@
+secrets.py
+.env
+ip_info.json
+__pycache__/
+*.pyc
+.DS_Store
